@@ -1,0 +1,49 @@
+#easy-sticky-sidebar-1.easy-sticky-sidebar {
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){#easy-sticky-sidebar-1.easy-sticky-sidebar {
+}
+
+}@media screen and (max-width: 767px){#easy-sticky-sidebar-1.easy-sticky-sidebar {
+}
+
+}#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-button {
+	color: #ffffff;
+	font-family: 'Oswald';
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+	background-color: #e8896d;
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-image {
+	background-image: url(http://localhost/weather/wp-content/uploads/2024/09/call-center-1027585_1280.jpg);
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-text {
+	color: #3d5a42;
+	font-family: 'Oswald';
+	font-weight: 500;
+	font-size: 18px;
+background-color: #ffffff;
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-content hr {
+	background-color: #ffffff;
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-call-to-action {
+	color: #3d5a42;
+	font-family: 'Oswald';
+	font-weight: 700;
+	font-size: 18px;
+background-color: #e0f0d0;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){.easy-sticky-sidebar.easy-sticky-sidebar-1 {
+}
+
+}@media screen and (max-width: 767px){.easy-sticky-sidebar.easy-sticky-sidebar-1 {
+}
+
+}
